@@ -1,4 +1,5 @@
 package PlayerMultimediale;
 
-public class Riproducibile {
+public interface Riproducibile {
+    void play();
 }
